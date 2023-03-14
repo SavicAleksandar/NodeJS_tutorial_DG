@@ -1,0 +1,2 @@
+20230302	22:17:25	1d2a5027-358a-4e1f-8691-fd0061578c7a	Error: Not allowed by CORS
+20230302	22:17:57	b1f5a558-1b68-4ef9-bd05-cfe2a890e8b0	Error: Not allowed by CORS

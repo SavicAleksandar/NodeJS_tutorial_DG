@@ -1,2 +1,10 @@
 20230302	22:17:25	1d2a5027-358a-4e1f-8691-fd0061578c7a	Error: Not allowed by CORS
 20230302	22:17:57	b1f5a558-1b68-4ef9-bd05-cfe2a890e8b0	Error: Not allowed by CORS
+20230326	08:28:34	fd219b3d-800d-4182-ad76-ad6c0b800e4f	TypeError: res.Status is not a function
+20230326	08:30:02	c25819ce-b427-4ae1-9767-97596320a47b	TypeError: res.Status is not a function
+20230326	08:30:03	af26aced-2f11-42dd-857e-3a3e6783b76b	TypeError: res.Status is not a function
+20230413	20:42:20	7f8d19e9-fb8f-4deb-abcf-a4543aa3dbbd	ReferenceError: whitelist is not defined
+20230413	20:42:46	6edd8917-f96c-4e4f-a2c2-4f84454e5700	ReferenceError: whitelist is not defined
+20230413	20:44:31	147d2765-992a-4c27-ab90-160d30d3a9c8	ReferenceError: whitelist is not defined
+20230413	20:44:44	a5ba113b-50f4-4474-b273-0e4280d86982	ReferenceError: whitelist is not defined
+20230413	20:53:04	27f0c014-62ca-4b0e-891e-d49e0043aba9	ReferenceError: whitelist is not defined

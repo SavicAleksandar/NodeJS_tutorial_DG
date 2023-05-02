@@ -1,0 +1,26 @@
+[
+    {
+        "username":"Sandi",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password":"$2b$10$1CbYab7vIDI8EXmiQjAex.aSfIrJ34maThNm7uIClPM74l9uaaI/u"
+    },
+    {
+        "username":"Mateja",
+        "roles": {
+            "User": 2001
+        },
+        "password":"$2b$10$d9V0WQPWx1HhwfRUnOQS2ubSevMZ6ZWQPybggSJAjkXzsxR/UynCm"
+    },
+    {
+        "username":"Sandis",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "password":"$2b$10$70IbKQr4m7y.AzdgoS9Hc.BqX/iLkzJF5YcRdGgY3u9mLefuLU3qC"
+    }
+]
